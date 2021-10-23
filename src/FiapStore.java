@@ -55,7 +55,7 @@ public static final int TAMANHO_CARRINHO = 5;
 		
 		
 		
-		
+		leitor.close();
 		
 
 	}
